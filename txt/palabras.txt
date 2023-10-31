@@ -23,7 +23,7 @@ Eleccion
 Fantasma
 Avion
 Cuchillo
-Búho
+Buho
 Calabaza
 Enigma
 Vampiro
@@ -33,7 +33,7 @@ Melodia
 Volcan
 Maleta
 Cepillo
-Cáscara
+Cascara
 Laberinto
 Cosecha
 Monstruo
